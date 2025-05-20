@@ -57,7 +57,7 @@ body{
     font-size: 20px;
 }
 .remember-forgot{
-    display: flex;
+    display: relative;
     justify-content: space-between;
     margin: -15px 0 15px;
 }
