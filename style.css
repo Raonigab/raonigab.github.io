@@ -87,4 +87,5 @@ body{
     background-color: transparent;
     border: 2px solid rgba(0, 0, 0, .2);
     color: white;
+    transition: 0.5s;
 }
