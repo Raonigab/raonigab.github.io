@@ -47,5 +47,27 @@ body{
     padding: 20px 45px 20px 20px;
 }
 .input-box input::placeholder{
+    color: #c5c5c5;
+}
+.input-box i{
+    position: absolute;
+    right: 20px;
+    top: 25%;
+    font-size: 20px;
+}
+.remember-forgot{
+    display: flex;
+    justify-content: space-between;
+    margin: -15px 0 15px;
+}
+.remember-forgot label input{
+    accent-color: white;
+    margin-right: 5px;
+}
+.remember-forgot a{
+    text-decoration: none;
     color: white;
+}
+.remember-forgot a:hover{
+    text-decoration: underline;
 }
